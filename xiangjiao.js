@@ -3,7 +3,7 @@
  * 
  * 香蕉视频 app  ---【商务-免CK版】    一个账户每天稳定1元+，可以自己提现，也可以兑换会员，脚本不停会员也不停！
  *  免责声明：脚本仅提供运行 获取金币，你如何使用 或者后续出现什么问题 与本人无关，决策权在你，毕竟这APP也不是我开发的，不关我事，使用者默认同意！
- * 可在面板使用命令拉取脚本 ql raw https://raw.githubusercontent.com/Gemini-LRJ/xiangjiao/main/xiangjiao.js
+ * 可在面板使用命令拉取脚本 ql raw  https://github.moeyy.xyz/https://raw.githubusercontent.com/Gemini-LRJ/xiangjiao/d87ac1e025c9295b062aa15c3df3b53c9063799f/xiangjiao.js
  *
  * 环境变量放下面，能理解就理解，不能就算了。  需要定制脚本 或者 有问题添加 微信 chaohuo8080  ，后期微信将公布 要的加微，谨防失联，不要就不加。
  * 名称 xjsp  值  手机号;密码@@手机号;密码
