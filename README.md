@@ -1,5 +1,7 @@
 # 脚本库
 青龙面板，脚本存档库：管理员：微信联系：chaohuo8080
+扫码联系我：
+![扫码联系我](https://files.mdnice.com/user/31056/68bac087-bf86-4dbb-959d-018f7c338844.jpg)
 直接使用 ql repo https://github.com/Gemini-LRJ/jiaoben.git  即可拉库；
 
 ## 香蕉脚本使用方法：
@@ -12,3 +14,4 @@
 ## 
 ![公众号账号](https://files.mdnice.com/user/31056/176c9a8c-cc20-4a05-a41c-bf694deb3965.PNG)
 ![小程序账号](https://files.mdnice.com/user/31056/1848d576-e1b3-43e4-9cc8-20c3b485b1b4.PNG)
+![签到规则](https://files.mdnice.com/user/31056/3fc1a228-6386-42f4-9d4a-4bfdb1bb61d3.PNG)
